@@ -1,4 +1,4 @@
--- Coded By The Fivem Coders (https://www.fivemcoders.tech)
+-- Coded By The Fivem Coders (https://www.thefivemcoders.tech)
 local rob = false
 local robbers = {}
 ESX = nil
