@@ -1,4 +1,4 @@
--- Coded By The Fivem Coders (https://www.fivemcoders.tech)
+-- Coded By The Fivem Coders (https://www.thefivemcoders.tech)
 Locales['en'] = {
 
 	['robbery_cancelled'] = 'the Attack will be cancelled, you will gain nothing',
