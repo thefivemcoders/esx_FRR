@@ -1,7 +1,7 @@
 -- Coded By The Fivem Coders (https://www.thefivemcoders.tech)
 Config = {}
 Config.Locale = 'en'
-Config.NumberOfCopsRequired = 0
+Config.NumberOfCopsRequired = 3
 
 Banks = {
 	["federal_reserve"] = {
