@@ -1,4 +1,4 @@
--- Coded By The Fivem Coders (https://www.fivemcoders.tech)
+-- Coded By The Fivem Coders (https://www.thefivemcoders.tech)
 local holdingup = false
 local bank = ""
 local secondsRemaining = 0
